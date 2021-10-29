@@ -11,8 +11,6 @@
 
 ---
 
-<br />
-
 <h2 align="center">😇 About me</h2>
 <br />
 
@@ -87,7 +85,7 @@
 </p>
 <br />
 
-<h2 align="center"><a name="blogs"></a>📕 Latest Blog Posts</h2>
+<h2 align="center"><a name="blogs"></a>📕 My Latest Blog Posts</h2>
 <br />
 
 - [Ref and Populate (using Mongoose)](https://www.notion.so/Ref-and-Populate-using-Mongoose-f5830ea29bbb4e7bb6ac1f2793ed9660)
