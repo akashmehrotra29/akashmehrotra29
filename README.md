@@ -20,9 +20,11 @@
 
 - 📝 I like to write technical blogs and giving back to community! Check them out [here](#blogs)<br />
 
-- 📄 I'm open for opportunities. Check out my [Resume](https://rebrand.ly/rlz8pu3)<br />
+- 📄 I'm open for opportunities.
+<!-- Check out my [Resume](https://rebrand.ly/rlz8pu3)<br /> -->
 
 - 📧 For any queries feel free to drop me a [mail](mailto:akashmehrotra29@gmail.com)<br />
+
 - 💬 Ask me about anything related to tech. I am happy to help<br /> <br/>
 
 <h3 align="center"> Languages</h3>
